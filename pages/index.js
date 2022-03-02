@@ -16,7 +16,7 @@ export default function Home() {
         <meta name='keywords' content='Ninjas' />
       </Head>
       <div>
-        <h1 classname={styles.title}>Homepage</h1>
+        <h1 className={styles.title}>Homepage</h1>
         <p className={styles.text}>Reprehenderit proident esse reprehenderit minim exercitation fugiat ullamco quis incididunt occaecat pariatur cillum. Eu ea et esse sint in amet proident nisi dolore aute magna ullamco. Anim nulla sint qui reprehenderit. Aliquip aliquip cillum labore laborum elit occaecat anim adipisicing labore ullamco. In fugiat labore consequat incididunt eu. Anim proident laboris esse culpa ad minim magna et sint non.</p>
         <p className={styles.text}>Reprehenderit proident esse reprehenderit minim exercitation fugiat ullamco quis incididunt occaecat pariatur cillum. Eu ea et esse sint in amet proident nisi dolore aute magna ullamco. Anim nulla sint qui reprehenderit. Aliquip aliquip cillum labore laborum elit occaecat anim adipisicing labore ullamco. In fugiat labore consequat incididunt eu. Anim proident laboris esse culpa ad minim magna et sint non.</p>
         <Link href='/ninjas'>
